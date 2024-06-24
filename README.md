@@ -1,6 +1,8 @@
 # Expected Grad-CAM
 > Distribution sampling and kernel smoothing for a more robust Grad-CAM alternative.
 
+This repository contains the implementation for the paper: [Expected Grad-CAM: Towards gradient faithfulness](https://arxiv.org/abs/2406.01274v1)
+
 ![hero-image-alt](https://github.com/espressoshock/pytorch-expected-gradcam/assets/45082377/524d004c-1c1d-4e39-8b3d-e53d83082967)
 
 ## Overview
